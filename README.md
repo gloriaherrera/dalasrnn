@@ -2,13 +2,33 @@
 
 * carpeta [assets/](/assets/):
    * archivo [WorkSans-Light.ttf](/assests/WorkSans-Light.ttf)
- 
+* CARPETA [imagenes/](imagenes/):
+   * archivo [dalas_txt.png](/imagenes/dalas_txt.png)
+   * archivo [google_colab_01.png](/imagenes/google_colab_01.png)
+   * archivo [google_colab_02.png](/imagenes/google_colab_02.png)
+   * archivo [google_colab_03.png](/imagenes/google_colab_03.png)
+   * archivo [google_colab_04.png](/imagenes/google_colab_04.png)
+   * archivo [google_colab_05.png](/imagenes/google_colab_05.png)
+   * archivo [google_colab_06.png](/imagenes/google_colab_06.png)
+   * archivo [google_colab_07.png](/imagenes/google_colab_07.png)
+   * archivo [google_colab_08.png](/imagenes/google_colab_08.png)
+   * archivo [charnnfuncionando.mp4](/imagenes/charnnfuncionando.mp4)
+   * archivo [dalasrnnfuncionando2.mp4](/imagenes/dalasrnnfuncionando2.mp4)
 * carpeta [libraries/](/libraries):
    * archivo [ml5.min.js](/libraries/ml5.min.js)
    * archivo [p5.js](/libraries/p5.js)
    * archivo [p5.min.js](/libraries/p5.min.js)
 * carpeta [models/dalas/](/models/dalas):
-   * archivo
+   * archivo [Variable](/models/dalas/Variable)
+   * archivo [embedding](/models/dalas/embedding)
+   * archivo [manifest.json](/models/dalas/manifest.json)
+   * archivo [rnnlm_multi_rnn_cell_cell_0_basic_lstm_cell_bias](/models/dalas/rnnlm_multi_rnn_cell_cell_0_basic_lstm_cell_bias)
+   * archivo [rnnlm_multi_rnn_cell_cell_0_basic_lstm_cell_kernel](/models/dalas/rnnlm_multi_rnn_cell_cell_0_basic_lstm_cell_kernel)
+   * archivo [rnnlm_multi_rnn_cell_cell_1_basic_lstm_cell_bias](/models/dalas/rnnlm_multi_rnn_cell_cell_1_basic_lstm_cell_bias)
+   * archivo [rnnlm_multi_rnn_cell_cell_1_basic_lstm_cell_kernel](/models/dalas/rnnlm_multi_rnn_cell_cell_1_basic_lstm_cell_kernel)
+   * archivo [rnnlm_softmax_b](/models/dalas/rnnlm_softmax_b)
+   * archivo [rnnlm_softmax_w](/models/dalas/rnnlm_softmax_w)
+   * archivo [vocab.json](/models/dalas/vocab.json)
 * archivo [index.html](index.html)
 * archivo [sketch.js](sketch.js)
 * archivo [style.css](style.css)
