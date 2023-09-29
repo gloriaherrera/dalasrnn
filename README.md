@@ -88,7 +88,7 @@ ____
 * Abrir un google colab, el cual usamos previamente para hacer un modelo de [El Quijote](https://github.com/disenoUChile/audiv027-2023-2/blob/main/clases/clase-02/2023_audiv027_char_rnn_quijote.ipynb).
 * Subir archivo .txt a un google colab.
 * Reemplazar archivo [El Quijote](https://github.com/disenoUChile/audiv027-2023-2/blob/main/clases/clase-02/2023_audiv027_char_rnn_quijote.ipynb) con el nuevo archivo de texto dentro del código.
-* Entrenar código con el texto subido. (agregar foto google colab)
+* Entrenar código con el texto subido.
 
 ![google_colab_01](imagenes/google_colab_01.png)
 
