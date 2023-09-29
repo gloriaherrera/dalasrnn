@@ -1,12 +1,12 @@
 #### Contenidos de este repositorio
 
 * carpeta [assets/](assets/):
-   * archivo [WorkSans-Light.ttf](WorkSans-Light.ttf)
+   * archivo [WorkSans-Light.ttf](assests/WorkSans-Light.ttf/)
  
 * carpeta [libraries/](libraries/):
-   * archivo [ml5.min.js](ml5.min.js)
-   * archivo [p5.js](p5.js)
-   * archivo [p5.min.js](p5.min.js)
+   * archivo [ml5.min.js](libraries/ml5.min.js)
+   * archivo [p5.js](libraries/p5.js)
+   * archivo [p5.min.js](libraries/p5.min.js)
 * carpeta [models/dalas/](models/dalas/):
    * archivo
 * archivo [index.html](index.html)
