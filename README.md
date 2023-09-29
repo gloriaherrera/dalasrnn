@@ -2,7 +2,7 @@
 
 * carpeta [assets/](/assets/):
    * archivo [WorkSans-Light.ttf](/assests/WorkSans-Light.ttf)
-* CARPETA [imagenes/](imagenes/):
+* carpeta [imagenes/](imagenes/):
    * archivo [dalas_txt.png](/imagenes/dalas_txt.png)
    * archivo [google_colab_01.png](/imagenes/google_colab_01.png)
    * archivo [google_colab_02.png](/imagenes/google_colab_02.png)
@@ -80,14 +80,16 @@ ____
 ### Proceso
 
 * Recopilar texto a través de transcripciones de videos del canal de youtube de [DalasReview](https://www.youtube.com/@DalasReview/featured).
-* Crear un archivo .txt con las transcripciones de videos (agregar foto archivo)
-* Abrir un google colab, el cual usamos previamente para hacer un modelo de [El Quijote](https://github.com/disenoUChile/audiv027-2023-2/blob/main/clases/clase-02/2023_audiv027_char_rnn_quijote.ipynb)
-* Subir archivo .txt a un google colab
+* Crear un archivo .txt con las transcripciones de videos. (agregar foto archivo)
+
+  
+* Abrir un google colab, el cual usamos previamente para hacer un modelo de [El Quijote](https://github.com/disenoUChile/audiv027-2023-2/blob/main/clases/clase-02/2023_audiv027_char_rnn_quijote.ipynb).
+* Subir archivo .txt a un google colab.
 * Reemplazar archivo [El Quijote](https://github.com/disenoUChile/audiv027-2023-2/blob/main/clases/clase-02/2023_audiv027_char_rnn_quijote.ipynb) con el nuevo archivo de texto dentro del código.
-* Entrenar código con el texto subido (agregar foto google colab)
-* Descargar archivo comprimido
-* Crear repositorio en github
-* Copiar el código de [ejemplo-ml5js-char-rnn](https://github.com/camilamendezm/audiv027-2023-2/tree/main/clases/clase-04/ejemplo-ml5js-char-rnn) y reemplazar los archivos antiguos (El Quijote) con los nuevos (Dalasrnn)
+* Entrenar código con el texto subido. (agregar foto google colab)
+* Descargar archivo comprimido.
+* Crear repositorio en github.
+* Copiar el código de [ejemplo-ml5js-char-rnn](https://github.com/camilamendezm/audiv027-2023-2/tree/main/clases/clase-04/ejemplo-ml5js-char-rnn) y reemplazar los archivos antiguos (El Quijote) con los nuevos (Dalasrnn).
 
 ____
 
