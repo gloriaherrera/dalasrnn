@@ -47,11 +47,12 @@ Dalas es un youtuber de comentarios y críticas, popularizado por su participaci
 
 Nuestro objetivo con esta inteligencia era entrenarla para poder encontrar estas mismas acusaciones.
 
-<sub> [**Gloria Herrera**](https://github.com/gloriaherrera), [**Amelia López**](https://github.com/Ax0lMar) y [**Camila Méndez**](https://github.com/camilamendezm) para audiv027-2023-2. Electivo Ambas Menciones: Inteligencia Artificial - DOCENTE: [**Aaron Montoya Moraga**](https://github.com/montoyamoraga) - FAU.UCHILE -  </sub>
+<sub> [**Gloria Herrera**](https://github.com/gloriaherrera), [**Amelia López**](https://github.com/Ax0lMar) y [**Camila Méndez**](https://github.com/camilamendezm) para audiv027-2023-2. Electivo Ambas Menciones: Inteligencia Artificial  
+DOCENTE: [**Aaron Montoya Moraga**](https://github.com/montoyamoraga) - FAU.UCHILE -  </sub>
 
 ____
 
-Video de dalasrnn funcionando
+[![DalasRnn](https://img.youtube.com/vi/mm-snUmJyjA/mqdefault.jpg)](https://youtu.be/mm-snUmJyjA)
 
 ____
 
@@ -109,9 +110,19 @@ ____
 
 ## Conclusiones
 
+Aprendijazes:
+
 * Trabajar código en equipo.
 * Entender el proceso de charRNN, mientras más texto tenga más coherente será.
 * Lanzar una página en GitHub en equipo, usando todas las herramientas que GitHub nos entrega (repositorios, pull request, etc)
+
+Dificultades:
+
+* Ordenar informacion en MarkDown.
+* Trabajar 3 personas en un mismo repositorio.
+* Corroborar nombres de archivos
+
+
 
 
 
