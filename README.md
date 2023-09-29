@@ -52,6 +52,8 @@ DOCENTE: [**Aaron Montoya Moraga**](https://github.com/montoyamoraga) - FAU.UCHI
 
 ____
 
+#### Dalasrnn funcionando:
+
 [![DalasRnn](https://img.youtube.com/vi/mm-snUmJyjA/mqdefault.jpg)](https://youtu.be/mm-snUmJyjA)
 
 ____
