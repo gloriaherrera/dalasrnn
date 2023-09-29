@@ -80,13 +80,17 @@ ____
 ### Proceso
 
 * Recopilar texto a través de transcripciones de videos del canal de youtube de [DalasReview](https://www.youtube.com/@DalasReview/featured).
-* Crear un archivo .txt con las transcripciones de videos. (agregar foto archivo)
+* Crear un archivo .txt con las transcripciones de videos.
 
+![dalas_txt](imagenes/dalas_txt.png)
   
 * Abrir un google colab, el cual usamos previamente para hacer un modelo de [El Quijote](https://github.com/disenoUChile/audiv027-2023-2/blob/main/clases/clase-02/2023_audiv027_char_rnn_quijote.ipynb).
 * Subir archivo .txt a un google colab.
 * Reemplazar archivo [El Quijote](https://github.com/disenoUChile/audiv027-2023-2/blob/main/clases/clase-02/2023_audiv027_char_rnn_quijote.ipynb) con el nuevo archivo de texto dentro del código.
 * Entrenar código con el texto subido. (agregar foto google colab)
+
+![google_colab_01](imagenes/google_colab_01.png)
+
 * Descargar archivo comprimido.
 * Crear repositorio en github.
 * Copiar el código de [ejemplo-ml5js-char-rnn](https://github.com/camilamendezm/audiv027-2023-2/tree/main/clases/clase-04/ejemplo-ml5js-char-rnn) y reemplazar los archivos antiguos (El Quijote) con los nuevos (Dalasrnn).
@@ -103,7 +107,12 @@ ____
 
 ____
 
-### Conclusiones
+## Conclusiones
+
+* Trabajar código en equipo.
+* Entender el proceso de charRNN, mientras más texto tenga más coherente será.
+* Lanzar una página en GitHub en equipo, usando todas las herramientas que GitHub nos entrega (repositorios, pull request, etc)
+
 
 
 
